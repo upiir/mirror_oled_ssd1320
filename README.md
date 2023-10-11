@@ -9,7 +9,8 @@ Arduino Mirror OLED Display SSD1320 160x80px
 Links from the video:
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
 - 160x80 SSD1320 OLED Display (Mirror): https://vi.aliexpress.com/item/1005002000386487.html
-- 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb 
+- 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb
+- 128x64 SSD1306 Transparent OLED: https://s.click.aliexpress.com/e/_DeOM9ph
 - Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
 - Image2cpp (convert array to image): https://javl.github.io/image2cpp/
 - Photopea (online graphics editor like Photoshop): https://www.photopea.com/
